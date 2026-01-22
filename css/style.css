@@ -336,8 +336,8 @@ body.home #bio hr{ margin: 10px 0; }
   max-height: 320px;
   overflow: auto;
   padding-right: 10px;
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
-          mask-image: linear-gradient(to bottom, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+  /* -webkit-mask-image: linear-gradient(to bottom, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+          mask-image: linear-gradient(to bottom, transparent 0, black 18px, black calc(100% - 18px), transparent 100%); */
 }
 .newslist{
   margin: 0;
