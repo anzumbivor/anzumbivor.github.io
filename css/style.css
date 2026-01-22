@@ -51,8 +51,8 @@ body{
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
   color: var(--text);
   background:
-    radial-gradient(900px 420px at 15% -10%, color-mix(in srgb, var(--primary) 10%, transparent), transparent 65%),
-    radial-gradient(900px 420px at 100% 0%, color-mix(in srgb, var(--primary) 8%, transparent), transparent 62%),
+    /* radial-gradient(900px 420px at 15% -10%, color-mix(in srgb, var(--primary) 10%, transparent), transparent 65%),
+    radial-gradient(900px 420px at 100% 0%, color-mix(in srgb, var(--primary) 8%, transparent), transparent 62%), */
     var(--bg);
   line-height: 1.65;
 }
